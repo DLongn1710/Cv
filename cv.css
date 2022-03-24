@@ -15,7 +15,12 @@ body{
 	width: "215px" ;
     height: "215px";
 }
-
+.title{
+    font-weight: 600;
+}
+.content{
+    color: coral;
+}
 .header{
     width: "100px";
     height: "100px";
