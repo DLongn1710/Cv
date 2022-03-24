@@ -1,0 +1,100 @@
+p{
+    margin: 0;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(./img/asus.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img {
+	width: "215px" ;
+    height: "215px";
+}
+
+.header{
+    width: "100px";
+    height: "100px";
+    display: flex;
+    justify-content: left;
+}
+
+.Long{
+    background-color: #37474f;
+    color: #fff;
+    width: 50%;
+    height: 100%;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.information{
+    width: 100%;
+    height: 100%;
+    margin-left: 10px;
+    justify-content: right;
+
+}
+/* .inf{
+
+    font-size: 18px;
+    border-radius: 10px;
+    background-color: #fff;
+} */
+.long{
+    width: 210px;
+    height: 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    background-color: cadetblue;
+    color: white;
+}
+.name{
+    font-size: 18px;
+}
+.intro{
+    font-size: 18px;
+}
+.MoreInf{
+    width: 100%;
+    height: auto;
+    margin-left: 70px;
+    justify-content: center;
+}
+
+
+.body{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    display: flex;
+}
+
+.left{
+    /* background-color: blue; */
+    width: 50%;
+    height: 100%;
+    padding: 0% 1% 0 1%;
+}
+
+.right{
+    /* background-color: crimson; */
+    width: 50%;
+    height: 100%;
+    padding: 0% 1% 0 1%;
+}
+.skill{
+    font-size: 18px;
+}
+.education{
+    font-size: 18px;
+}
+.project{
+    font-size: 18px;
+}
